@@ -3,23 +3,12 @@ layout: default
 title: About Me
 ---
 
-<img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
+你好，我是[某數](https://xnum.in)。這是我撰寫書評的紀錄站，與部落格的內容做出區隔。這個站有幾個特色如下：
 
-I'm Dilbert. I've been working as a Software Engineer for over 30 years. I like to innovate to solve challenging problems using technology. I work with a great Engineering team, but we have a good-for-nothing and clueless manager, who can be replaced with a monkey and the change would be for the better.
+- 領域多元化，只要讀過就會放上來。內容包含但不限於：軟體、資訊科技、溝通、領導、哲學、心理學、身心靈、生產力、輕小說...
+- 評論較為主觀，可能和我目前接觸的知識和心態有關。覺得有用就有用，覺得沒用就沒用。
+- 嘗試不提及或濃縮書中內容。這方面的內容以個人筆記方式摘要。
 
-On a personal front, I live with two amazing pets - Dogbert and Ratbert, and three dinasours - Bob, Rex and Dawn - who're hiding from the rest of the world. I'm single and have few friends due to my poor social skills, but I usually spend my time playing with computers and technology.
+希望給您作為購書參考。
 
-### Life Advice
-Here are a few things I've learned over the years,
-> An optimist is simply a pessimist with no job experience.
-
-> All of your co-workers are fools. You must learn to pity and tolerate them.
-
-> There are very few problems that can't be solved through a suitable application of high explosives.
-
-### Publications
-1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
-2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
-
-### Contact Me
-No thanks, I have enough problems of my own to deal with.
+此外特別感謝[rhl-bthr](https://github.com/rhl-bthr)開源這個jekyll theme供大眾使用。

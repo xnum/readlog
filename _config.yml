@@ -1,9 +1,9 @@
-title: Parchment
-author: pro-panda
-subtitle: The life of a frustrated engineer
+title: 某數的閱讀紀錄站
+author: xnum
+subtitle: 這是副標題
 
-url: "https://rahulbothra.com"
-baseurl: "/parchment"
+url: ""
+baseurl: ""
 
 footer_only_homepage: true
 footer_url: "https://github.com/rhl-bthr"
@@ -20,5 +20,23 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "Resume"
-   absolute-link: "https://rahulbothra.com/cv.pdf"
+ - name: "Tags"
+   link: "tags"
+ - name: "Archives"
+   link: "archives"
+
+
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+paginate: 10
+lsi: false
+quiet: false
+excerpt_separator: "\n\n"
+plugins:
+    - rouge
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-feed
+    - jemoji
