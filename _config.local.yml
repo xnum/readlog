@@ -24,6 +24,8 @@ navbar:
    link: "tags"
  - name: "Archives"
    link: "archives"
+ - name: "RSS"
+   link: "feed.xml"
 
 
 markdown: kramdown
